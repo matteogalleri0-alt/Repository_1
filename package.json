@@ -1,0 +1,8 @@
+{
+  "name": "Project_CAP_2-cds",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@sap/cds-dk": "^10.0.1"
+  },
+  "dependencies": {}
+}
